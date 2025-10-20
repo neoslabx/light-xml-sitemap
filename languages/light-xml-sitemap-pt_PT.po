@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Light-XML Sitemap 2.3.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/light-xml-sitemap\n"
 "Last-Translator: NeosLab <support@neoslab.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Português <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,94 +18,94 @@ msgstr ""
 #: light-xml-sitemap.php
 #: admin/class-light-xml-sitemap-admin.php:74
 msgid "Light-XML Sitemap"
-msgstr ""
+msgstr "Mapa do site Light-XML"
 
 #. Plugin URI of the plugin
 #: light-xml-sitemap.php
 msgid "https://wordpress.org/plugins/light-xml-sitemap/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/light-xml-sitemap/"
 
 #. Description of the plugin
 #: light-xml-sitemap.php
 msgid "Light-XML Sitemap dynamically creates dynamic XML Sitemap that comply with Google, Bing, Yahoo! and Ask.com Sitemap protocol."
-msgstr ""
+msgstr "O Light-XML Sitemap cria dinamicamente um mapa do site XML em conformidade com os protocolos do Google, Bing, Yahoo! e Ask.com."
 
 #. Author of the plugin
 #: light-xml-sitemap.php
 msgid "NeosLab"
-msgstr ""
+msgstr "NeosLab"
 
 #. Author URI of the plugin
 #: light-xml-sitemap.php
 msgid "https://neoslab.com"
-msgstr ""
+msgstr "https://neoslab.com"
 
 #: admin/class-light-xml-sitemap-admin.php:86
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr ""
+msgstr "As configurações foram atualizadas com sucesso."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:33
 msgid "Include Posts"
-msgstr ""
+msgstr "Incluir artigos"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:41
 #: admin/partials/light-xml-sitemap-admin-options.php:53
 msgid "Do you want to include the posts into the sitemap."
-msgstr ""
+msgstr "Deseja incluir os artigos no mapa do site."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:45
 msgid "Include Custom Post Types"
-msgstr ""
+msgstr "Incluir tipos de conteúdo personalizados"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:72
 #: admin/partials/light-xml-sitemap-admin-options.php:88
 msgid "Do you want to include the pages into the sitemap."
-msgstr ""
+msgstr "Deseja incluir as páginas no mapa do site."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:80
 msgid "Include Pages"
-msgstr ""
+msgstr "Incluir páginas"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:92
 msgid "Include Categories"
-msgstr ""
+msgstr "Incluir categorias"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:100
 msgid "Do you want to include the categories into the sitemap."
-msgstr ""
+msgstr "Deseja incluir as categorias no mapa do site."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:104
 msgid "Include Tags"
-msgstr ""
+msgstr "Incluir etiquetas"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:112
 msgid "Do you want to include the tags into the sitemap."
-msgstr ""
+msgstr "Deseja incluir as etiquetas no mapa do site."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:116
 msgid "Include Author"
-msgstr ""
+msgstr "Incluir autores"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:124
 msgid "Do you want to include the authors into the sitemap."
-msgstr ""
+msgstr "Deseja incluir os autores no mapa do site."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:128
 msgid "Sitemap Name"
-msgstr ""
+msgstr "Nome do mapa do site"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:129
 msgid "Enter the sitemap name"
-msgstr ""
+msgstr "Insira o nome do mapa do site"
 
 #: admin/partials/light-xml-sitemap-admin-options.php:130
 msgid "Set an alternative name for the sitemap index (Leave empty to use the default: sitemap.xml)."
-msgstr ""
+msgstr "Defina um nome alternativo para o índice do mapa do site (deixe em branco para usar o padrão: sitemap.xml)."
 
 #: admin/partials/light-xml-sitemap-admin-options.php:133
 msgid "Update Settings"
-msgstr ""
+msgstr "Atualizar configurações"
